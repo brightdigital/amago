@@ -1,0 +1,20 @@
+@media screen and (min-width: 1200px) {
+    .col-padd {
+        padding-top: 50px;
+    }
+    .img-padd{
+        padding-left:100px;padding-right:100px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .img-redux {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
+
+#parceiros img{
+    vertical-align: middle;
+}
+
